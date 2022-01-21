@@ -34,3 +34,16 @@ h1 {
     background-color: #118ab2;
     color: #fff;
 }
+
+.box .fizz {
+    background-color: #1ecd8d;
+}
+
+.box .buzz {
+    background-color: #fec954;
+}
+
+.box .fizzbuzz {
+    background-color: #ea2a5d;
+
+}
