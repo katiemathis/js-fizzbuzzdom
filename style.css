@@ -17,7 +17,7 @@ h1 {
 }
 
 #container {
-    max-width: 1000px;
+    max-width: 900px;
     width: 100%;
     margin: 50px auto;
     display: flex;
@@ -26,24 +26,41 @@ h1 {
 
 .box {
     display: flex;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     margin: 10px;
     align-items: center;
     justify-content: center;
     background-color: #118ab2;
-    color: #fff;
 }
 
-.box .fizz {
+.fizz {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
     background-color: #1ecd8d;
 }
 
-.box .buzz {
+.buzz {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
     background-color: #fec954;
 }
 
-.box .fizzbuzz {
+.fizzbuzz {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
     background-color: #ea2a5d;
 
 }
